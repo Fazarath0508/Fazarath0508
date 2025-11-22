@@ -1,14 +1,12 @@
-# Hi there, I'm Fazarath Shathaff! 👋
-
-![Banner Image](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi!%20Iam%20Fazarath%20Shathaff&textBg=false)
+![Banner Image](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi!%20Iam%20Fazarath%20&textBg=false)
 
 ## About Me 🚀
 
 I'm a passionate **Software Engineering Student** with experience in **Python, Web Development, and Data Analysis**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **Machine Learning, Advanced Python, and Mobile App Development**
+- 🌱 Currently learning: **Machine Learning, Advanced Java, and Mobile App Development**
 - 🔭 Working on: **Traffic Data Analysis Tool and Web Development Projects**
-- 🌍 Languages: **Python, JavaScript, HTML, CSS, Java, English, Tamil**
+- 🌍 Languages: **Python, JavaScript, HTML, CSS, Javal**
 - 📫 How to reach me: **ma.fazarathshathaff@gmail.com**
 - ⚡ Fun fact: **I enjoy analyzing real-world data to find patterns and create practical solutions!**
 
