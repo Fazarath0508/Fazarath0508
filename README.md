@@ -1,6 +1,6 @@
 # Hi there, I'm Fazarath Shathaff! 👋
 
-![Banner Image](https://via.placeholder.com/1200x300/0D1117/FFFFFF?text=Software+Engineering+Student+%7C+Python+%7C+Web+Development+%7C+AI+Enthusiast)
+![Banner Image]([https://via.placeholder.com/1200x300/0D1117/FFFFFF?text=Software+Engineering+Student+%7C+Python+%7C+Web+Development+%7C+AI+Enthusiast](https://media.licdn.com/dms/image/v2/D4D16AQGNzgzpInXn4Q/profile-displaybackgroundimage-shrink_350_1400/B4DZbZyqa8G8Ac-/0/1747410663713?e=1765411200&v=beta&t=tD-Gcmv136sFAexGWHYUdIREFf0AJCLLkMcrjzGIAoY))
 
 ## About Me 🚀
 
