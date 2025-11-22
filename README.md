@@ -1,6 +1,6 @@
 # Hi there, I'm Fazarath Shathaff! 👋
 
-![Banner Image](https://media.licdn.com/dms/image/v2/D4D16AQGNzgzpInXn4Q/profile-displaybackgroundimage-shrink_350_1400/B4DZbZyqa8G8Ac-/0/1747410663713?e=1765411200&v=beta&t=tD-Gcmv136sFAexGWHYUdIREFf0AJCLLkMcrjzGIAoY)
+![Banner Image](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hi!%20Iam%20Fazarath%20Shathaff&textBg=false)
 
 ## About Me 🚀
 
