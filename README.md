@@ -22,26 +22,6 @@ I'm a passionate **Software Engineering Student** with experience in **Python, W
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## Featured Projects 💻
-
-### [Traffic Data Analysis Tool](https://github.com/Fazarath0508/traffic-analysis-tool)
-
-![Project 1 Screenshot](https://via.placeholder.com/600x300/0D1117/FFFFFF?text=Traffic+Data+Analysis+Tool+Coming+Soon)
-
-**Traffic Data Analysis Tool** is a **Python application for analyzing traffic flow datasets** built with **Python, Pandas, and Matplotlib**. This project demonstrates my ability to **analyze real-world data, create visualizations, and derive meaningful insights**. You can check out the repository [here](https://github.com/Fazarath0508/traffic-analysis-tool).
-
-### [Clean Water Awareness Website](https://github.com/Fazarath0508/clean-water-website)
-
-![Project 2 Screenshot](https://via.placeholder.com/600x300/0D1117/FFFFFF?text=Clean+Water+Awareness+Website+Coming+Soon)
-
-**Clean Water Awareness Website** is a **responsive website for SDG 6 awareness** built with **HTML, CSS, and JavaScript**. This project showcases my skills in **web development, responsive design, and collaborative teamwork**. You can check out the repository [here](https://github.com/Fazarath0508/clean-water-website).
-
-### [Freelance Web Projects](https://github.com/Fazarath0508/web-dev-projects)
-
-![Project 3 Screenshot](https://via.placeholder.com/600x300/0D1117/FFFFFF?text=Freelance+Web+Projects+Coming+Soon)
-
-**Freelance Web Projects** include **responsive websites for small businesses** built with **HTML, CSS, and JavaScript**. This project demonstrates my ability to **collaborate with clients, understand requirements, and deliver user-friendly designs**. You can check out the repository [here](https://github.com/Fazarath0508/web-dev-projects).
-
 ## GitHub Stats 📊
 
 ![Fazarath's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fazarath0508&show_icons=true&theme=radical)
